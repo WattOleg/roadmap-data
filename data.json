@@ -1,43 +1,53 @@
 {
+  "clientId": "GUO YUWEI-CROATIA-april-may 2026",
   "milestones": [
     {
       "id": 1,
-      "date": "2026-01-20",
-      "label": "Янв-Фев",
-      "title": "Консультации по выбору визы"
+      "date": "2026-02-27",
+      "label": "Feb 27 – Mar 26",
+      "title": "Consultations",
+      "endDate": "2026-03-26"
     },
     {
       "id": 2,
-      "date": "2026-03-04",
-      "label": "4-5 мар",
-      "title": "Подписание и оплата",
-      "endDate": "2026-03-05"
+      "date": "2026-03-26",
+      "label": "Mar 26",
+      "title": "Payment"
     },
     {
       "id": 3,
-      "date": "2026-03-06",
-      "label": "6–23 мар",
-      "title": "Подготовка документов",
-      "endDate": "2026-03-23"
+      "date": "2026-03-28",
+      "label": "Mar 27 – Mar 29",
+      "title": "Visa center appointment booking",
+      "endDate": "2026-03-29"
     },
     {
       "id": 4,
-      "date": "2026-03-24",
-      "label": "24 мар в 9:30",
-      "title": "Подача паспорта на визу"
+      "date": "2026-03-30",
+      "label": "Mar 30 – Apr 4",
+      "title": "Document collection",
+      "endDate": "2026-04-04"
     },
     {
       "id": 5,
-      "date": "2026-03-25",
-      "label": "25 мар – 22 май",
-      "title": "Отслеживание рассмотрения",
-      "endDate": "2026-05-22"
+      "date": "2026-04-05",
+      "label": "Apr 5 – Apr 6",
+      "title": "Submission at visa center",
+      "endDate": "2026-04-06"
     },
     {
       "id": 6,
-      "date": "2026-05-22",
-      "label": "22 май",
-      "title": "Получение паспорта 🎉"
+      "date": "2026-04-07",
+      "label": "Apr 7 – Apr 24",
+      "title": "Embassy review process",
+      "endDate": "2026-04-24"
+    },
+    {
+      "id": 7,
+      "date": "2026-04-25",
+      "label": "Apr 25 – Apr 26",
+      "title": "Passport pickup with visa",
+      "endDate": "2026-04-26"
     }
   ]
 }
